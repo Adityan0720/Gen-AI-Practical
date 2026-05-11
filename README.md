@@ -1,8 +1,8 @@
 # **Generative AI Lab Experiments**
 
-## **RAGHUVEER SINGH**
-- **Roll No:** 2301420038
-- **Email:** 2301420038@krmu.edu.in
+## **ADITYAN S KUMAR**
+- **Roll No:** 2301420004
+- **Email:** 2301420004@krmu.edu.in
 - **Program:** B.Tech CSE (Data Science)
 - **Semester:** 6
 
